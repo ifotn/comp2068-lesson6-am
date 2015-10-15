@@ -27,7 +27,6 @@ router.get('/', function(res, res, next) {
         }
     });
 
-
 });
 
 // show the add article form
