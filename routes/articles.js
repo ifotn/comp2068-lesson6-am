@@ -1,7 +1,7 @@
 var express = require('express');
 var router = express.Router();
 
-// add mongoose so we can use the article schema
+// ADD MONGOOSE SO WE CAN DO CRUD
 var mongoose = require('mongoose');
 
 // add a reference to the Article model

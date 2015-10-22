@@ -17,11 +17,11 @@ db.once('open', function(callback) {
 });
 
 // connect with mongoose
-// local
-//mongoose.connect('mongodb://localhost/test');
+// LOCAL
+mongoose.connect('mongodb://localhost/test');
 
 // live - mongolab
-mongoose.connect('mongodb://gcrfreeman:dbpass1244@ds048368.mongolab.com:48368/gcrfreeman-comp2068');
+
 
 var routes = require('./routes/index');
 var users = require('./routes/users');

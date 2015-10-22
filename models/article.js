@@ -1,7 +1,7 @@
 // link to mongoose
 var mongoose = require('mongoose');
 
-// create the article schema
+// CREATE THE ARTICLE SCHEMA
 var articleSchema = new mongoose.Schema( {
     created: {
         type: Date,
