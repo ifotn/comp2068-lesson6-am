@@ -2,22 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f1fbe07-badb-4715-b2ac-9ab00e68db25" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midterm/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lesson6_node_modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midterm/.idea/libraries/midterm_node_modules.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../midterm/models/player.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/articles/add.ejs" afterPath="$PROJECT_DIR$/views/articles/add.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week6/app.js" afterPath="$PROJECT_DIR$/../week6/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/article.js" afterPath="$PROJECT_DIR$/models/article.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week6/models/article.js" afterPath="$PROJECT_DIR$/../week6/models/article.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/articles.js" afterPath="$PROJECT_DIR$/routes/articles.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week6/routes/articles.js" afterPath="$PROJECT_DIR$/../week6/routes/articles.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/articles/edit.ejs" afterPath="$PROJECT_DIR$/views/articles/edit.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week6/routes/index.js" afterPath="$PROJECT_DIR$/../week6/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/lesson6.iml" afterPath="$PROJECT_DIR$/.idea/lesson6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week6/.idea/vcs.xml" afterPath="$PROJECT_DIR$/../week6/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../week6/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../week6/.idea/workspace.xml" />
     </list>
@@ -304,7 +298,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
